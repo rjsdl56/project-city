@@ -81,3 +81,4 @@
 ### 5일차 : pyspark으로 인한 오류발생 / 프로젝트 All stop
 
 - Pyspark 설치하며 java port number error 발생 / 현재 user 이름을 바꾸며 프로젝트 스탑
+- 프로젝트 파일 대신 pyspark 진행 내용 업로드
