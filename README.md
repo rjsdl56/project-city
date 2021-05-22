@@ -19,7 +19,7 @@
 ### 시연영상 링크
 
 - 시연영상
-  - https://youtu.be/JEP9UONqxxM 
+  - https://youtu.be/kBpGJZ39qfE
 
 
 
